@@ -4,5 +4,5 @@ Sorted and Rotated Array   (Microsoft, https://codezen.codingninjas.in/practice/
 
  N-th Prefect Number (Microsoft, https://codezen.codingninjas.in/practice/130452/4641/interview-shuriken-21:-n-th-prefect-number)
 
- 
+ Count distinct elements in every window of size k(Accolite, Amazon and Microsoft,https://codezen.codingninjas.in/practice/199644/5201/interview-shuriken-35:-count-distinct-elements-in-every-window-of-size-k) 
 
