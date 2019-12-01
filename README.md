@@ -7,3 +7,5 @@ N-th Prefect Number (Microsoft, https://codezen.codingninjas.in/practice/130452/
 Count distinct elements in every window of size k(Accolite, Amazon and Microsoft,https://codezen.codingninjas.in/practice/199644/5201/interview-shuriken-35:-count-distinct-elements-in-every-window-of-size-k) 
 
 Sort Binary Array (Amazon, Zoho, Paytm and MakeMyTrip , https://codezen.codingninjas.in/practice/236720/5537/interview-shuriken-40:-sort-binary-array)
+
+First negative integer in every window of size k (Amazon,https://codezen.codingninjas.in/practice/194088/5171/interview-shuriken-34:-first-negative-integer-in-every-window-of-size-k)
