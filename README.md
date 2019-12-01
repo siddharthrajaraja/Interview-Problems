@@ -9,3 +9,5 @@ Count distinct elements in every window of size k(Accolite, Amazon and Microsoft
 Sort Binary Array (Amazon, Zoho, Paytm and MakeMyTrip , https://codezen.codingninjas.in/practice/236720/5537/interview-shuriken-40:-sort-binary-array)
 
 First negative integer in every window of size k (Amazon,https://codezen.codingninjas.in/practice/194088/5171/interview-shuriken-34:-first-negative-integer-in-every-window-of-size-k)
+
+Two Elements(Facebook, https://codezen.codingninjas.in/practice/177734/5008/interview-shuriken-30:-two-elements)
