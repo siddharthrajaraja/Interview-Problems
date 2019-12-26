@@ -17,3 +17,5 @@ Move Zeroes to End(Amazon, Bloomberg, Paytm, LinkedIn, Samsung and SAP Labs, htt
 Delete Middle Node (Flipkart and Microsoft.,https://codezen.codingninjas.in/practice/253059/5741/interview-shuriken-43:-delete-middle-node)
 
 Loop Detector (Amazon, Accolite, Samsung and MAQ Software ,https://codezen.codingninjas.in/practice/255594/5823/interview-shuriken-44:-loop-detector)
+
+Pair Sum(initial rounds of Google interview, https://codezen.codingninjas.in/practice/100333/2674/interview-shuriken-1:-pair-sum)
