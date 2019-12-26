@@ -13,3 +13,5 @@ First negative integer in every window of size k (Amazon,https://codezen.codingn
 Two Elements(Facebook, https://codezen.codingninjas.in/practice/177734/5008/interview-shuriken-30:-two-elements)
 
 Move Zeroes to End(Amazon, Bloomberg, Paytm, LinkedIn, Samsung and SAP Labs, https://codezen.codingninjas.in/practice/240143/5577/interview-shuriken-41:-move-zeroes-to-end)
+
+Delete Middle Node (This problem was asked in Flipkart and Microsoft.,https://codezen.codingninjas.in/practice/253059/5741/interview-shuriken-43:-delete-middle-node)
