@@ -14,4 +14,6 @@ Two Elements(Facebook, https://codezen.codingninjas.in/practice/177734/5008/inte
 
 Move Zeroes to End(Amazon, Bloomberg, Paytm, LinkedIn, Samsung and SAP Labs, https://codezen.codingninjas.in/practice/240143/5577/interview-shuriken-41:-move-zeroes-to-end)
 
-Delete Middle Node (This problem was asked in Flipkart and Microsoft.,https://codezen.codingninjas.in/practice/253059/5741/interview-shuriken-43:-delete-middle-node)
+Delete Middle Node (Flipkart and Microsoft.,https://codezen.codingninjas.in/practice/253059/5741/interview-shuriken-43:-delete-middle-node)
+
+Loop Detector (Amazon, Accolite, Samsung and MAQ Software ,https://codezen.codingninjas.in/practice/255594/5823/interview-shuriken-44:-loop-detector)
