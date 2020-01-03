@@ -22,3 +22,5 @@ Pair Sum(initial rounds of Google interview, https://codezen.codingninjas.in/pra
 
 Find the smallest window in a string containing all characters of another string( Amazon, Factset, MakeMyTrip, Codenation, Streamoid Technologies, Google, Visa,
 https://codezen.codingninjas.in/practice/209118/5331/interview-shuriken-37:-find-the-smallest-window-in-a-string-containing-all-characters-of-another-string)
+
+Happy Number (https://codezen.codingninjas.in/practice/265704/5880/interview-shuriken-45:-happy-number)
