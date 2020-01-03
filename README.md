@@ -19,3 +19,6 @@ Delete Middle Node (Flipkart and Microsoft.,https://codezen.codingninjas.in/prac
 Loop Detector (Amazon, Accolite, Samsung and MAQ Software ,https://codezen.codingninjas.in/practice/255594/5823/interview-shuriken-44:-loop-detector)
 
 Pair Sum(initial rounds of Google interview, https://codezen.codingninjas.in/practice/100333/2674/interview-shuriken-1:-pair-sum)
+
+Find the smallest window in a string containing all characters of another string( Amazon, Factset, MakeMyTrip, Codenation, Streamoid Technologies, Google, Visa,
+https://codezen.codingninjas.in/practice/209118/5331/interview-shuriken-37:-find-the-smallest-window-in-a-string-containing-all-characters-of-another-string)
