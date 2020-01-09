@@ -26,3 +26,5 @@ https://codezen.codingninjas.in/practice/209118/5331/interview-shuriken-37:-find
 Happy Number (https://codezen.codingninjas.in/practice/265704/5880/interview-shuriken-45:-happy-number)
 
 Smallest window that contains all distinct characters(Microsoft, Amazon and DailyHunt,https://codezen.codingninjas.in/practice/188409/5167/interview-shuriken-33:-smallest-window-that-contains-all-distinct-characters)
+
+Is Palindrome(Snapdeal, Microsoft and Amazon, https://codezen.codingninjas.in/practice/267994/5962/interview-shuriken-46:-is-palindrome)
