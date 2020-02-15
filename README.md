@@ -28,3 +28,5 @@ Happy Number (https://codezen.codingninjas.in/practice/265704/5880/interview-shu
 Smallest window that contains all distinct characters(Microsoft, Amazon and DailyHunt,https://codezen.codingninjas.in/practice/188409/5167/interview-shuriken-33:-smallest-window-that-contains-all-distinct-characters)
 
 Is Palindrome(Snapdeal, Microsoft and Amazon, https://codezen.codingninjas.in/practice/267994/5962/interview-shuriken-46:-is-palindrome)
+
+Dynamic Programming --> Move_to_other_end ( Determine the minimum number of path taken by a pawn to travel from top-leftmost corner to bottom-right most corner in a n*n chessboard . Note : only Left and Bottom transitions allowed by the pawn. )
