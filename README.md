@@ -30,3 +30,11 @@ Smallest window that contains all distinct characters(Microsoft, Amazon and Dail
 Is Palindrome(Snapdeal, Microsoft and Amazon, https://codezen.codingninjas.in/practice/267994/5962/interview-shuriken-46:-is-palindrome)
 
 Dynamic Programming --> Move_to_other_end ( Determine the minimum number of path taken by a pawn to travel from top-leftmost corner to bottom-right most corner in a n*n chessboard . Note : only Left and Bottom transitions allowed by the pawn. )
+
+Amdocs Pattern : 
+First line as n (number of lines) 
+4
+1
+3 * 2
+4 * 5 * 6
+10 * 9 * 8 * 7
