@@ -33,8 +33,13 @@ Dynamic Programming --> Move_to_other_end ( Determine the minimum number of path
 
 Amdocs Pattern : 
 First line as n (number of lines) 
+
 4
+
 1
+
 3 * 2
+
 4 * 5 * 6
+
 10 * 9 * 8 * 7
