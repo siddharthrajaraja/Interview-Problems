@@ -43,3 +43,5 @@ First line as n (number of lines)
 4 * 5 * 6
 
 10 * 9 * 8 * 7
+
+328. Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list/)
