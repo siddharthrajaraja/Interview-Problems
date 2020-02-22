@@ -50,3 +50,19 @@ odd_even_link_list_o(n).c
 21. Merge Two Sorted Lists (https://leetcode.com/problems/merge-two-sorted-lists/)
 
 186. Reverse Words in String (Microsoft,Amazon,Uber, https://www.leetfree.com/problems/reverse-words-in-a-string-ii.html#)
+
+SPIRAL MATRIX (Google) -- > Given a matrix of R (Rows)  and C(Columns) : 
+
+Print the elements of matrix in spiral order : 
+
+Example : 
+
+3 3
+
+1 2 3
+
+4 5 6
+
+7 8 9
+
+1 2 3 6 9 8 7 4 5 
