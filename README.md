@@ -66,3 +66,5 @@ Example :
 7 8 9
 
 1 2 3 6 9 8 7 4 5 
+
+70. CLIMBING STAIRCAE (Amazon , https://leetcode.com/problems/climbing-stairs/)
