@@ -51,7 +51,7 @@ odd_even_link_list_o(n).c
 
 186. Reverse Words in String (Microsoft,Amazon,Uber, https://www.leetfree.com/problems/reverse-words-in-a-string-ii.html#)
 
-SPIRAL MATRIX (Google) -- > Given a matrix of R (Rows)  and C(Columns) : 
+54. SPIRAL MATRIX (Google, https://leetcode.com/problems/spiral-matrix/ ) -- > Given a matrix of R (Rows)  and C(Columns) : 
 
 Print the elements of matrix in spiral order : 
 
