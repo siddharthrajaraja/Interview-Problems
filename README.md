@@ -67,4 +67,12 @@ Example :
 
 1 2 3 6 9 8 7 4 5 
 
-70. CLIMBING STAIRCAE (Amazon , https://leetcode.com/problems/climbing-stairs/)
+70. CLIMBING STAIRCASE (Amazon , https://leetcode.com/problems/climbing-stairs/)
+
+Problem : CONTIGUOUS SUB-ARRAY SUM : (Google) : 
+Given a contiguous array of size n of non-negative integers , find a contiguous sub-array which adds to give sum S.
+Time: O(n)
+Example : 
+array : [1 2 3 7 5]
+S : 12
+Output : [2, 4]
