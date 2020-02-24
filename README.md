@@ -76,3 +76,22 @@ Example :
 array : [1 2 3 7 5]
 S : 12
 Output : [2, 4]
+
+Problem : 
+This problem was asked by Sumo Logic.
+
+Given an unsorted array, in which all elements are distinct, find a "peak" element in O(log N) time.
+
+An element is considered a peak if it is greater than both its left and right neighbors. It is guaranteed that the first and last elements are lower than all others.
+
+Exmaple :
+INPUT :
+
+15 20 14 16 48 19 50 60 10 20 30 45 60
+
+OUTPUT :
+
+YES
+
+ALL PEAK ELEMENTS ARE : [20, 48, 60]
+
