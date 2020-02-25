@@ -95,3 +95,15 @@ YES
 
 ALL PEAK ELEMENTS ARE : [20, 48, 60]
 
+Problem : (Google interview) : 
+Given two arrays A and B and a targetSum to be achieved , write a function that returns "True" or "False" such that : if a number choosen from A and a number choosen from B has a sum equal to targetSum.
+
+Example:
+
+Input : 
+A=> [25 30 41 60 10 -5 60 -2]
+B=> [-1 0 20 60]
+tragetSum=> -3
+Output : 
+True
+
