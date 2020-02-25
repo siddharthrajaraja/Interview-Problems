@@ -1,3 +1,4 @@
+# Note this method has O(n) space Complexity and O(n) Time Complexity
 def countingSort(array):
     dic={}
     for i in range(0,len(array)):
