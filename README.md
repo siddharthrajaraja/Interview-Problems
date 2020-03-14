@@ -117,3 +117,9 @@ Given a list of N listeners, and a list of M radio towers, each placed at variou
 For example, suppose listeners = [1, 5, 11, 20], and towers = [4, 8, 15]. In this case the minimum range would be 5, since that would be required for the tower at position 15 to reach the listener at position 20.
 
 34. Find First and Last Position of Element in Sorted Array (Facebook ,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+*PROBLEM:place_all_x_and_y_together* : This problem was asked by LinkedIn.
+
+You are given a string consisting of the letters x and y, such as xyxxxyxyy. In addition, you have an operation called flip, which changes a single x to y or vice versa.
+
+Determine how many times you would need to apply this operation to ensure that all x's come before all y's. In the preceding example, it suffices to flip the second and sixth characters, so you should return 2.
