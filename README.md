@@ -124,3 +124,42 @@ You are given a string consisting of the letters x and y, such as xyxxxyxyy. In 
 
 Determine how many times you would need to apply this operation to ensure that all x's come before all y's. In the preceding example, it suffices to flip the second and sixth characters, so you should return 2.
 <hr>
+
+This problem was asked by <b>Pinterest</b>.
+
+At a party, there is a single person who everyone knows, but who does not know anyone in return (the "celebrity"). To help figure out who this is, you have access to an O(1) method called knows(a, b), which returns True if person a knows person b, else False.
+
+Given a list of N people and the above operation, find a way to identify the celebrity in O(N) time.
+
+D:\C++ FILES>elexe <br>
+Enter number of relations : 6 <br>
+sid aman <br>
+rohan aman <br>
+amulya aman <br>
+rohan amulya <br>
+ankita aman <br>
+vinay aman <br>
+
+Key     Value <br>
+amulya  aman <br>
+ankita  aman <br>
+rohan   aman    amulya <br>
+sid     aman <br>
+vinay   aman <br>
+
+indegree map is :
+aman    5 <br>
+amulya  1 <br>
+ankita  0 <br>
+rohan   0 <br>
+sid     0 <br>
+vinay   0 <br>
+outdegree map is : <br>
+aman    0 <br>
+amulya  1 <br>
+ankita  1 <br>
+rohan   2 <br>
+sid     1 <br>
+vinay   1 <br>
+Celebrity is aman 
+<hr>
