@@ -174,10 +174,14 @@ Given a binary search tree and a range [a, b] (inclusive), return the sum of the
 
 For example, given the following tree:
 
-    5 <br>
-   / \ <br>
-  3   8 <br>
- / \ / \ <br>
+    5 
+
+   / \ 
+
+  3   8 
+
+ / \ / \ 
+ 
 2  4 6  10 <br>
 
 and the range [4, 9], return 23 (5 + 4 + 6 + 8).
