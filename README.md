@@ -187,3 +187,7 @@ For example, given the following tree:
 and the range [4, 9], return 23 (5 + 4 + 6 + 8).
 
 <hr>
+
+<a href="https://codezen.codingninjas.com/practice/323771/6424/interview-shuriken-54:-missing-k-natural-numbers"> Interview Shuriken 54: Missing K Natural Numbers </a>
+
+<hr>
