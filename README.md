@@ -191,3 +191,19 @@ and the range [4, 9], return 23 (5 + 4 + 6 + 8).
 <a href="https://codezen.codingninjas.com/practice/323771/6424/interview-shuriken-54:-missing-k-natural-numbers"> Interview Shuriken 54: Missing K Natural Numbers </a>
 
 <hr>
+
+<a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/SentenceEquality.cpp">Sentence Equality </a>
+
+This problem was asked by Google.
+
+You are given a set of synonyms, such as (big, large) and (eat, consume). Using this set, determine if two sentences with the same number of words are equivalent.
+
+For example, the following two sentences are equivalent:
+
+"He wants to eat food."
+"He wants to consume food."
+Note that the synonyms (a, b) and (a, c) do not necessarily imply (b, c): consider the case of (coach, bus) and (coach, teacher).
+
+Follow-up: what if we can assume that (a, b) and (a, c) do in fact imply (b, c)?
+
+<hr>
