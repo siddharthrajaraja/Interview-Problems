@@ -207,3 +207,6 @@ Note that the synonyms (a, b) and (a, c) do not necessarily imply (b, c): consid
 Follow-up: what if we can assume that (a, b) and (a, c) do in fact imply (b, c)?
 
 <hr>
+
+<a href="https://codezen.codingninjas.com/practice/388904/6433/interview-shuriken-55:-missing-numbers"> Interview Shuriken 55: Missing Numbers </a>
+
