@@ -210,3 +210,11 @@ Follow-up: what if we can assume that (a, b) and (a, c) do in fact imply (b, c)?
 
 <a href="https://codezen.codingninjas.com/practice/388904/6433/interview-shuriken-55:-missing-numbers"> Interview Shuriken 55: Missing Numbers </a>
 
+<hr>
+
+This problem asked by : <b>*Amazon*</b>
+<a href="https://codezen.codingninjas.com/practice/149803/4893/interview-shuriken-26:-number-of-islands"> Interview Shuriken 26: Number of Islands </a>
+
+
+<hr>
+
