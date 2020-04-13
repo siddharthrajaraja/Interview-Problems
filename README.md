@@ -227,3 +227,8 @@ This problem asked by : <b>*Amazon*</b>
 <a href="https://codezen.codingninjas.com/practice/111699/4467/interview-shuriken-15:-run-length-encoding"> Interview Shuriken 15: Run Length Encoding </a>
 
 <hr>
+
+This problem asked by *Google*
+<a href="https://leetcode.com/problems/univalued-binary-tree/">Unival Subtrees Leetcode</a>
+
+<hr>
