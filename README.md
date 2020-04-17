@@ -245,3 +245,8 @@ add_subtract(-5)(10)(3)(9) -> -5 + 10 - 3 + 9 -> 11
 
 Link to code <a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/curry.py">curry.py</a>
 <hr>
+
+This problem was asked by <b>*Google*</b>
+<a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/">Valid Parenthesis String </a>
+
+<hr>
