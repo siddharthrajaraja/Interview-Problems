@@ -250,3 +250,12 @@ This problem was asked by <b>*Google*</b>
 <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/">Valid Parenthesis String </a>
 
 <hr>
+
+This problem was asked by Amazon.
+
+Write a function that takes a natural number as input and returns the number of digits the input has.
+
+Constraint: don't use any loops.
+
+
+
