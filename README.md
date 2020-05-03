@@ -250,3 +250,11 @@ This problem was asked by <b>*Google*</b>
 <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/">Valid Parenthesis String </a>
 
 <hr>
+
+This Code is asked by <b>Google</b>
+<a href="https://leetcode.com/problems/find-median-from-data-stream/">Link to problem</a>
+<br>
+<a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/FindMedianFromDataStream.py">Solution</a>
+
+<hr>
+
