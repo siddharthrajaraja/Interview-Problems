@@ -257,4 +257,11 @@ This Code is asked by <b>Google</b>
 <a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/FindMedianFromDataStream.py">Solution</a>
 
 <hr>
+This problem was asked by Amazon.
+
+Write a function that takes a natural number as input and returns the number of digits the input has.
+
+Constraint: don't use any loops.
+
+
 
