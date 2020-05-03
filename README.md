@@ -254,7 +254,7 @@ This problem was asked by <b>*Google*</b>
 This Code is asked by <b>Google</b>
 <a href="https://leetcode.com/problems/find-median-from-data-stream/">Link to problem</a>
 <br>
-<a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/FindMedianFromDataStream.py">Solution</a>
+<a href="https://github.com/siddharthrajaraja/Interview-Problems/blob/master/FindMedianFromDataStream.cpp">Solution</a>
 
 <hr>
 This problem was asked by Amazon.
