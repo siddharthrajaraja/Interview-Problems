@@ -1,10 +1,7 @@
 <h3><strong> 😫 <i> Try Some simple DP PROBLEMS . This makes you feel 😄  <i> <strong> <h3>
 <hr>
-<p>
     <strong>Longest Common Subsequence : </strong><a href="https://leetcode.com/problems/longest-common-subsequence/">Link to problem</a>
-</p>
 <hr>
-<p>
     <strong>Shortest Common Supersequence : </strong><a href="https://leetcode.com/problems/shortest-common-supersequence/">Link to problem</a>
     <br>
     Intusion 🤔 👍 --> <br>
@@ -13,9 +10,7 @@
             <li>With the obtained LCS try integrating the non LCS character in such a way that they occur in the same order of their appearance in their desired strings.
             <li>The solution string is union of LCS and non LCS characters in order of their apprearance. 
     </ol>
-</p>
 <hr>
-<p>
     <strong>Longest Arithematic Progression : </strong><a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression/0">Link to problem</a>
     <br>
     Intusion 🤔 👍 💯 --> <br>
@@ -25,5 +20,10 @@
             <li>Try to find out the max counter present in the Hash Map . The (max+1) will give you solution . Guess why?
             <li>Pairing elements helps you find the solution reason for adding 1 behind max is the same as one need to count elements that are paired together. 
     </ol>
-</p>
 <hr>
+    <strong>Edit Distance : </strong><a href ="https://leetcode.com/problems/edit-distance/">Leetcode</a> or <a href="https://practice.geeksforgeeks.org/problems/edit-distance/0">G4G</a>
+    <br>Intusion:<br>
+    <div style="text-align:center">    
+    <img src="./images/editDistance.jpeg" width="600px">
+    </div>
+    
