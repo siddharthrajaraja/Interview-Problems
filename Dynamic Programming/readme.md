@@ -4,7 +4,7 @@
 <hr>
     <strong>Shortest Common Supersequence : </strong><a href="https://leetcode.com/problems/shortest-common-supersequence/">Link to problem</a>
     <br>
-    Intusion 🤔 👍 --> <br>
+    Intution 🤔 👍 --> <br>
     <ol>
             <li>Try Finding out LCS string.
             <li>With the obtained LCS try integrating the non LCS character in such a way that they occur in the same order of their appearance in their desired strings.
@@ -13,7 +13,7 @@
 <hr>
     <strong>Longest Arithematic Progression : </strong><a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression/0">Link to problem</a>
     <br>
-    Intusion 🤔 👍 💯 --> <br>
+    Intution 🤔 👍 💯 --> <br>
     <ol>
             <li>Try to figure out O(n*n) Logic with a hint of storing the common difference between each pair of elements when iterated. 
             <li>Try to build a Hash Map dynamically from index (1:size of array) in such a way that Hash Map stores the elements of type {key(common difference):value(counter)} which is referenced for each pair from previously iterated index.
@@ -22,7 +22,7 @@
     </ol>
 <hr>
     <strong>Edit Distance : </strong><a href ="https://leetcode.com/problems/edit-distance/">Leetcode</a> or <a href="https://practice.geeksforgeeks.org/problems/edit-distance/0">G4G</a>
-    <br>Intusion:<br>
+    <br>Intution:<br>
     <div style="text-align:center">    
     <img src="./images/editDistance.jpeg" width="600px">
     </div>
