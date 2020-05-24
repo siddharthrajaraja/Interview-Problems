@@ -29,4 +29,10 @@
     <div style="text-align:center">    
     <img src="./images/editDistance.jpeg" width="600px">
     </div>
-    
+<hr>
+    <strong>Longest Palindromic Subsequence : </strong><a href ="https://leetcode.com/problems/longest-palindromic-subsequence/">Leetcode</a> 
+    <br>Intution:<br>
+   <ol>
+            <li>Similar to LCS.</li>
+            <li>Just need to find LCS of string and reversed string and return length of LCS.</li> 
+    </ol>
