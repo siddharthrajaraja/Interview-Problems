@@ -1,4 +1,7 @@
-<h3><strong> 😫 <i> Try Some simple DP PROBLEMS . This makes you feel 😄  <i> <strong> <h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<blockquote> <strong> <i> Those who cannot remember the past they are condemned to repeat it.<i></strong> </blockquote>
+
+<h5><strong> 😫 <i> Try Some simple DP PROBLEMS . This makes you feel 😄  <i> <strong> <h5>
 <hr>
     <strong>Longest Common Subsequence : </strong><a href="https://leetcode.com/problems/longest-common-subsequence/">Link to problem</a>
 <hr>
