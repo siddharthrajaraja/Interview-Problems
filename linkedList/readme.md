@@ -1,4 +1,6 @@
-<h3>Linked List that 😨 up your interview !! But they are amazing!!</h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<blockquote> <strong> <i> Those who cannot remember the past they are condemned to repeat it.<i></strong> </blockquote>
+<h5>Linked List that 😨 up your interview !! But they are amazing!!</h5>
 <hr>
 <strong>DELETE A NODE WITHOUT HEADER!! :</strong>
 <a href='https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1'>Link to problem</a>
