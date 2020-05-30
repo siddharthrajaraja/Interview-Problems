@@ -36,3 +36,26 @@
             <li>Similar to LCS.</li>
             <li>Just need to find LCS of string and reversed string and return length of LCS.</li> 
     </ol>
+
+<hr>
+    <strong>Max Profit with atmost one Transaction : </strong><a href ="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Leetcode</a> 
+    <br>Intution:<br>
+   <ol>
+            <li>Look for a stock in which you feel the profit can be maximized. How?</li>
+            <li>Approach 1: Try Brute Force , i.e. , try designing an algorithm which helps you figure out the profit earned with each stock after selling them once they are bought!! Do you feel Brute Force is optimal enough??</li>
+            <li>Approach 2: Can you figure out how to optimize? Hints: <br>
+                <ol type='i'>
+                        <li>Work by maximizing the difference between buying and selling.</li>
+                        <li>Can you work with finding a Minimum valued stock and iterating with that stock to all other stocks to find out the maximum absolute differece? </li>
+                        <li>Can you do the above task simply while iterating the vector/array once?</li>
+                        <li>Biggest Hint for above task : try implementing Priority Queue.</li>
+                </ol>
+            </li> 
+    </ol>
+
+
+<hr>
+    <strong>Max Profit with K Transactions : </strong><a href ="https://www.algoexpert.io/questions/Max%20Profit%20With%20K%20Transactions">AlgoExpert.io</a> 
+    <br>Intution:<br>
+    <img src='./images/Max Profit with K Transactions.jpeg' width="600px">
+   
