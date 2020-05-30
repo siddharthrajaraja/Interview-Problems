@@ -5,9 +5,11 @@ typedef long long ll;
 
 int maxProfitWithKTransactions(vector<int> prices, int opp) {
     ll transactions=opp;
-		ll n=prices.size();
-	if(n==0)return 0;
-	  vector<ll>preRow(n,0);
+	ll n=prices.size();
+	
+    if(n==0)return 0; // This is to get the corner case with no input
+	
+    vector<ll>preRow(n,0);
     vector<vector<ll>>profit(transactions+1,preRow);
 
 
