@@ -58,4 +58,7 @@
     <strong>Max Profit with K Transactions : </strong><a href ="https://www.algoexpert.io/questions/Max%20Profit%20With%20K%20Transactions">AlgoExpert.io</a> 
     <br>Intution:<br>
     <img src='./images/Max Profit with K Transactions.jpeg' width="600px">
-   
+<hr>
+        <strong>K-palindrome : </strong><a href ="https://practice.geeksforgeeks.org/problems/k-palindrome/1">G4G</a> 
+        <br>Intution:<br>
+        <img src='./images/k-palindrome.jpeg' width="600px">
