@@ -27,7 +27,7 @@
     <strong>Edit Distance : </strong><a href ="https://leetcode.com/problems/edit-distance/">Leetcode</a> or <a href="https://practice.geeksforgeeks.org/problems/edit-distance/0">G4G</a>
     <br>Intution:<br>
     <div style="text-align:center">    
-    <img class='responsive-img' src="./images/editDistance.jpeg" width="600px">
+    <img class='responsive-img' src="./images/editDistance.jpeg" width="200rem">
     </div>
 <hr>
     <strong>Longest Palindromic Subsequence : </strong><a href ="https://leetcode.com/problems/longest-palindromic-subsequence/">Leetcode</a> 
@@ -57,13 +57,12 @@
 <hr>
     <strong>Max Profit with K Transactions : </strong><a href ="https://www.algoexpert.io/questions/Max%20Profit%20With%20K%20Transactions">AlgoExpert.io</a> 
     <br>Intution:<br>
-    <img src='./images/Max Profit with K Transactions.jpeg' class='responsive-img' width="600px">
+    <img src='./images/Max Profit with K Transactions.jpeg' class='responsive-img' width="200rem">
 <hr>
         <strong>K-palindrome : </strong><a href ="https://practice.geeksforgeeks.org/problems/k-palindrome/1">G4G</a> 
         <br>Intution:<br>
-        <img src='./images/k-palindrome.jpeg' class='responsive-img' width="600px">
+        <img src='./images/k-palindrome.jpeg' class='responsive-img' width="200rem">
 <hr>
         <strong>Unique Binary Search Trees : </strong><a href ="https://practice.geeksforgeeks.org/problems/unique-bsts/0">G4G</a> or <a href='https://leetcode.com/problems/unique-binary-search-trees/'>Leetcode</a> 
-        <br>Intution:<br>
-        <object data='./pdf/uniqueBSTwithCatlanNumbers.pdf' type='application/pdf' width='100%' height='100%'>DownLoad Pdf to view it !!</object>
+        <br> <a href='./pdf/uniqueBSTwithCatlanNumbers.pdf'> Intution</a><br>
 <hr>
