@@ -66,3 +66,7 @@
         <strong>Unique Binary Search Trees : </strong><a href ="https://practice.geeksforgeeks.org/problems/unique-bsts/0">G4G</a> or <a href='https://leetcode.com/problems/unique-binary-search-trees/'>Leetcode</a> 
         <br> <a href='./pdf/uniqueBSTwithCatlanNumbers.pdf'> Intution</a><br>
 <hr>
+        <strong>Coin Change 2 : </strong>
+        <a href='https://leetcode.com/problems/coin-change-2/'>Leetcode</a> 
+        <br> <a href='./pdf/coin change ways.pdf'> Intution</a><br>
+<hr>
