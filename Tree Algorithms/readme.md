@@ -31,7 +31,19 @@
     <li>Think of Tree Traversal Techniques.</li>
     <li>Okay So now which travels boggles into your mind first?</li>
     <li>How will you try to maintain the pointer to each level ordered node in your traversal technique? Try to figure out !!</li>
-    <li>Also try to store the level number per level per element like in a pair(Element,levelNo)<li>
+    <li>Also try to store the level number per level per element like in a pair(Element,levelNo)</li>
     <li>For the leaf node compare the maxii and mini values and return the result.</li>
+</ol>
+<hr>
+<strong>INSERT INTO A BST :</strong>
+<a href='https://leetcode.com/problems/insert-into-a-binary-search-tree/'>LINK TO PROBLEM</a> &nbsp;
+ 
+<br>
+<strong>Intution:</strong>
+<ol>
+    <li>Think of Tree Traversal Techniques.</li>
+    <li>If inserting element is greater than the current node move to right!!</li>
+    <li>Other wise move to left</li>
+    <li>Check out if root is NULL and return the root node!</li>
 </ol>
 
