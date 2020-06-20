@@ -12,3 +12,43 @@ This at first sight seems to be vague but this problem has a fine Intution insid
     <li>End up deleting the end node of list.</li>
     <li>Corner case: What about a single node ?</li>
 </ol>
+<hr>
+<strong>Swap Nodes in Pairs :</strong>
+<a href='https://leetcode.com/problems/swap-nodes-in-pairs/'>Link to problem</a>
+<br>This of solving it in single traversal without any additional Space !!<br>
+<strong>Intution:</strong>
+<ol>
+    <li>Think of a O(n) solution.</li>
+    <li>Try to think to work with list containing both even and odd number of nodes!!</li>
+    <li>Corner case: What about a single node or list with no node ?</li>
+    <pre>
+    <u>Algorithm:</u>
+        def swapPairs(ListNode *head):
+            if(head==NULL):
+                return NULL
+            if(head->next==NULL):
+                return head
+            #make ListNode variables:  i,j,t,preI
+            i=head ;  j=head->next ;  head=j;
+            while(i->next!=NULL){
+                t=j->next;
+                j->next=i;
+                i->next=t;
+                preI=i;
+                i=i->next;
+                if(i!=NULL){
+                    j=i->next;
+                    preI->next=j;
+                }
+                else{
+                    preI->next=i;
+                    break;
+                }
+            }
+            //for odd number of nodes in List:
+            if(j==NULL):
+                preI->next=i;
+            return head;
+    </pre>
+    <li><strong>Note: Please try to implement the Algorithm code and visualize the steps then work on implementation part!!</strong></li>
+</ol>
