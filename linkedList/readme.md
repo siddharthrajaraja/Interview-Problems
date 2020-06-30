@@ -52,3 +52,18 @@ This at first sight seems to be vague but this problem has a fine Intution insid
     </pre>
     <li><strong>Note: Please try to implement the Algorithm code and visualize the steps then work on implementation part!!</strong></li>
 </ol>
+
+<hr>
+<strong>Merge K Sorted Lists 👍</strong>
+<a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Link to problem</a>
+<br>
+This at first sight seems to be tricky but this problem has a fine Intution inside !! <br>
+<strong>Intution:</strong>
+<ol>
+    <li>Think of a O(nlogn)  solution.</li>
+    <li>Try to design or implement a Data Structure that stores the ingested in each of the list a sorted manner . (Hint : related to type of Queues)</li>
+    <li>End up deleting the element from the designed data structure and add it to the generated Linked List .</li>
+    <li>Return head of generated Linked List</li>
+</ol>
+<hr>
+    
