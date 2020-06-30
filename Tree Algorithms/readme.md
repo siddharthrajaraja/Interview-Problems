@@ -47,3 +47,14 @@
     <li>Check out if root is NULL and return the root node!</li>
 </ol>
 
+<hr>
+<strong>BINARY TREE ZIGZAG LEVEL ORDER TRAVERSAL :</strong>
+<a href='https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/'>LINK TO PROBLEM</a> &nbsp;
+ 
+<br>
+<strong>Intution:</strong>
+<ol>
+    <li>Think of Tree Traversal Techniques.</li>
+    <li>Make sure to reverse/zig-zag using some approach like even/odd indexing in the choosen traversal techniques.</li>
+    <li>Check out if root is NULL and return appropriate result!</li>
+</ol>
