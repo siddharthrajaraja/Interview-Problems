@@ -53,7 +53,6 @@
             </li> 
     </ol>
 
-
 <hr>
     <strong>Max Profit with K Transactions : </strong><a href ="https://www.algoexpert.io/questions/Max%20Profit%20With%20K%20Transactions">AlgoExpert.io</a> 
     <br>Intution:<br>
@@ -69,4 +68,15 @@
         <strong>Coin Change 2 : </strong>
         <a href='https://leetcode.com/problems/coin-change-2/'>Leetcode</a> 
         <br> <a href='./pdf/coin change ways.pdf'> Intution</a><br>
+<hr>
+
+##### Longest Valid Parenthesis : [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/)
+
+Intution 👍 🤔 :
+<ol>
+<li> Think of a stack implementation of a stack implementation for the problem checking a pair of valid parenthesis.
+<li> The best part is trying to visualize and implement the solution to check for a substring.
+<li> Hint : Can you work with Visited Array anyhow??  
+ </ol>
+
 <hr>
