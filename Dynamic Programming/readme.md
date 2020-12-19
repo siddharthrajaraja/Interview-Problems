@@ -73,10 +73,23 @@
 ##### Longest Valid Parenthesis : [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/)
 
 Intution 👍 🤔 :
+
 <ol>
-<li> Think of a stack implementation of a stack implementation for the problem checking a pair of valid parenthesis.
+<li> Think of a stack implementation for the problem checking a pair of valid parenthesis.
 <li> The best part is trying to visualize and implement the solution to check for a substring.
 <li> Hint : Can you work with Visited Array anyhow??  
  </ol>
 
 <hr>
+
+#### Increasing Triplet Subsequence : [Leetcode](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+Intution 🤔 :
+
+<ol>
+<li>Think of first Brute Force Solution?
+<strong>_Hint : O(n^2) Time and O(n) space_</strong>
+<li>Try to optimize using a <strong>oneMin</strong> and <strong>twoMin<strong> representing the element which is Minimum till count is either one or two.
+<li>Can you optimize Brute Force to O(n) Time and O(1) space using the above two variables?
+<li> <strong> Hint: </strong> Solution will be 'true' once the element in the present index > twoMin
+</ol>
