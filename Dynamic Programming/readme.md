@@ -88,8 +88,26 @@ Intution 🤔 :
 
 <ol>
 <li>Think of first Brute Force Solution?
-<strong>_Hint : O(n^2) Time and O(n) space_</strong>
+<strong>Hint : O(n^2) Time and O(n) space</strong>
 <li>Try to optimize using a <strong>oneMin</strong> and <strong>twoMin<strong> representing the element which is Minimum till count is either one or two.
 <li>Can you optimize Brute Force to O(n) Time and O(1) space using the above two variables?
 <li> <strong> Hint: </strong> Solution will be 'true' once the element in the present index > twoMin
 </ol>
+<hr>
+
+#### Out of Boundary Paths : [Leetcode](https://leetcode.com/problems/out-of-boundary-paths/)
+
+Intution 🤔 :
+
+<ol>
+<li>Think of first Brute Force Solution?
+<strong>Hint : DFS or BFS Solution with all 4 connected vertices moves! O(4<sup>n</sup>) Time Complexity</strong>
+<li>Try to optimize using a dp 3D Matrix. 
+<strong>Hint :  State of dp[moves][x][y] Matrix resembles number ways to reach (x,y) in 'moves'  </strong>
+<li>Look for Corner cases!
+
+<img src='./images/Out of Boundary Paths.jpeg' class='responsive-img' width="200rem">
+
+</ol>
+
+<hr>
