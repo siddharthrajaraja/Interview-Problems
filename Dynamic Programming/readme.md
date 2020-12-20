@@ -105,7 +105,7 @@ Intution 🤔 :
 <li>Try to optimize using a dp 3D Matrix. 
 <strong>Hint :  State of dp[moves][x][y] Matrix resembles number ways to reach (x,y) in 'moves'  </strong>
 <li>Look for Corner cases!
-
+<br><br>
 <img src='./images/Out of Boundary Paths.jpeg' class='responsive-img' width="200rem">
 
 </ol>
