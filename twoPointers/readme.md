@@ -22,9 +22,10 @@
 *Link to problem :*[Leetcode](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3595/)
 
 *Algorithm:*
-        * Try to think of a two pointer based solution.
-        * One pointer pointer placed at end of current String and maintain each character in current string using hashmap.
-        * Can you minimize use of Two pointers with an equivalent Data Structure (Hint : Linear Data Structure?).
-        * Time Complexity : O(n)
-        * Space Complexity : O(n) 
+        
+        1. Try to think of a two pointer based solution.
+        2. One pointer pointer placed at end of current String and maintain each character in current string using hashmap.
+        3. Can you minimize use of Two pointers with an equivalent Data Structure (Hint : Linear Data Structure?).
+        4. Time Complexity : O(n)
+        5. Space Complexity : O(n) 
 
