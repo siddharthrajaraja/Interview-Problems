@@ -1,7 +1,7 @@
 ## [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
 
     * Intution :
-        * Think of a brute force solution similar to A Counting Sort Algortim.
+        * Think of a brute force solution similar to A Counting Sort Algorithm.
         * Can you perform any sort of optimizations, may be including prefix sums?
         * Is this optimization the best solution?
         * Can you optimize it more implementing a Fenwick Tree?
@@ -11,5 +11,9 @@
                 * here maxi is (maximum of the elements present in array)+1
                 * getSum(ele) : Sum of range of values from 1 to ele (in prefix Count FenTree Array)
                 * getSum(ele-1) 😆 conclude from above.
+
+---
+
+## [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/) : This is a standard Binary Index Tree / Fenwick Tree Problem. 😄
 
 ---
