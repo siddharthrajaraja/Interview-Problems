@@ -14,17 +14,16 @@ Algorithm :
         a)  if invalid(x,y):
                 return False
 
-
-
         b)  currentElement = mat[x][y]
 
         c)  if currentElement==target:
                 break
 
-        c)  if currentElement > target :
+        c)  if currentElement > target : (This is because allElements in same row lesser then currentElement)
                 x++
-            else:
+            else: (This is because allElements in same column greater then currentElement)
                 y--
+
     3) return True
 ```
 
