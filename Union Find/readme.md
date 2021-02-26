@@ -14,3 +14,15 @@
 _Note : Two or more users may be merged think of a logic in linear time to merge the users with similar emailID and remove either of the user(condition mentioned username remains same)._
 
         * To return the result maintain set of string and fullfill requirements.
+
+***
+
+## [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
+
+    * Intutuion : 
+        * Consider all couples to be nodes with next pointer initially pointing to NULL.
+        * For every adjacent pairs of seats connect the nodes with each other.
+        * Try to check if the condition matches for couples as mentioned using union and find , use a counter variable to count the number of swaps.
+        * return swaps.
+
+*** 
